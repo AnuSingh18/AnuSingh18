@@ -1,2 +1,2 @@
 # mint_transactions
-Analysis on the all account transactions from Mint Application
+Data analysis of my expenses using the Mint application
